@@ -1,0 +1,1 @@
+<ul id="lstContacts" data-role="listview" class="overthrow-content" data-filter="true"/>
